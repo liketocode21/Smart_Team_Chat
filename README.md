@@ -6,7 +6,7 @@ This project focuses on **UI/UX with AI-first placeholders** like summaries, sma
 ---
 
 ## 🚀 Demo
-👉 <a href="https://drive.google.com/file/d/17TPf21P0wiVz8WxeDTebqQJrHi0Ji4KQ/view?usp=drive_link" _target="blank">This is the drive link for the demo. Click to view.</a>
+👉 <a href="https://drive.google.com/file/d/17TPf21P0wiVz8WxeDTebqQJrHi0Ji4KQ/view?usp=drive_link" target="_blank">This is the drive link for the demo. Click to view.</a>
 
 ---
 
